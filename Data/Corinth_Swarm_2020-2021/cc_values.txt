@@ -1,4 +1,4 @@
-Event 1 ID	Event 2 ID	Station ID	Unknown	CC
+Event_1_ID	Event_2_ID	Station_ID	CC
 3	4	10	-0.030353	96.3337
 3	4	10	-0.02604	95.4021
 3	5	10	-0.221689	92.7514
